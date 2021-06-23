@@ -4,7 +4,7 @@ lesson.js -- 辅助自动刷课
 
 exam.js --  取消禁用右键禁用菜单与复制功能，辅助考试搜题
 
-需要搭配油猴(https://www.tampermonkey.net/)使用
+需要搭配油猴使用  https://www.tampermonkey.net/
 
 使用方法：将lesson.js第七行中的https://rdjy.tongji.edu.cn/*/lesson/play?*
 
